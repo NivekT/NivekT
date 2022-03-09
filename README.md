@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kevin. I work on PyTorch.
-- 👀 I’m interested in machine learning, parallel computing, and economics.
-- 🌱 I’m currently learning application of ML/AI in different domains.
+- 👀 I’m interested in machine learning, parallel computing, and economics/finance.
+- 🌱 I’m currently learning applications of ML/AI in different domains.
 - 💞️ I’m looking to collaborate on machine learning projects and open source projects.
-- 📫 How to reach me: Leavea PR or issue in this repo.
+- 📫 How to reach me: Leave a PR or issue in this repo.
 
 <!---
 NivekT/NivekT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
