@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Kevin. I work on PyTorch.
-- 👀 I’m interested in machine learning, parallel computing, and economics/finance.
-- 🌱 I’m currently learning applications of ML/AI in different domains.
-- 💞️ I’m looking to collaborate on machine learning projects and open source projects.
-- 📫 How to reach me: Open a PR in this repo - https://github.com/NivekT/NivekT/
+- 👋 Hi, I’m Kevin. I formerly worked on PyTorch. 
+- 🚀 I co-founded [Hegel AI](https://hegel-ai.com/). We are building developer tools for LLMs. Check out [`prompttools`](https://github.com/hegelai/prompttools) and drop us a ⭐.
+- 👀 I’m interested in machine learning, distributed systems, and economics/finance.
+- 🌱 I’m currently learning about LLMs and thinking about how we can use them to make positive impacts in the world.
+- 💞️ I’m looking to collaborate on open source projects and hear about your pain points building with LLMs
+- 📫 How to reach me: Open a PR in this repo - https://github.com/NivekT/NivekT/ or email kevin (at) hegel-ai.com
 
 <!---
 NivekT/NivekT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
