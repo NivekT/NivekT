@@ -3,7 +3,7 @@
 - 👀 I’m interested in machine learning, distributed systems, and economics/finance.
 - 🌱 I’m currently learning about LLMs and thinking about how we can use them to make positive impacts in the world.
 - 💞️ I’m looking to collaborate on open source projects and hear about your pain points building with LLMs
-- 📫 How to reach me: Open a PR in this repo - https://github.com/NivekT/NivekT/ or email kevin (at) hegel-ai.com
+- 📫 How to reach me: Open a PR in this repo - https://github.com/NivekT/NivekT/.
 
 <!---
 NivekT/NivekT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
