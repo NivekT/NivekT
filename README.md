@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin. I formerly worked on [PyTorch](https://pytorch.org/) at Meta (Facebook) AI. 
+- 👋 Hi, I’m Kevin. I formerly worked on [PyTorch](https://github.com/pytorch/pytorch) and [TorchData](https://github.com/pytorch/data) at Meta (Facebook) AI. 
 - 🚀 I co-founded a start-up. We are building developer tools for LLMs. Check out [`prompttools`](https://github.com/hegelai/prompttools) and drop us a ⭐.
 - 👀 I’m interested in machine learning, distributed systems, and economics/finance.
 - 🌱 I’m currently learning about LLMs and thinking about how we can use them to make positive impacts in the world.
